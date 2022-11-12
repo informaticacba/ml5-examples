@@ -26,7 +26,7 @@
   "homepage": "https://github.com/ml5js/ml5-examples#readme",
   "dependencies": {
     "node-html-parser": "^1.1.14",
-    "recursive-readdir": "^2.2.2"
+    "recursive-readdir": "^2.2.3"
   },
   "devDependencies": {
     "cross-env": "^6.0.3",
